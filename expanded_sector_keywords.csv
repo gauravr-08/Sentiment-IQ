@@ -1,0 +1,183 @@
+Sector,Keyword
+Banking,bank
+Banking,banking
+Banking,account
+Banking,savings
+Banking,current
+Banking,balance
+Banking,transaction
+Banking,transactions
+Banking,deposit
+Banking,withdraw
+Banking,withdrawal
+Banking,cash
+Banking,atm
+Banking,card
+Banking,debit
+Banking,credit
+Banking,creditcard
+Banking,debitcard
+Banking,loan
+Banking,emi
+Banking,interest
+Banking,charges
+Banking,penalty
+Banking,fee
+Banking,fees
+Banking,transfer
+Banking,payment
+Banking,upi
+Banking,neft
+Banking,rtgs
+Banking,imps
+Banking,netbanking
+Banking,mobilebanking
+Banking,passbook
+Banking,statement
+Banking,branch
+Banking,teller
+Banking,customer care
+Banking,bank staff
+Banking,overdraft
+Banking,limit
+Banking,balance check
+Banking,mini statement
+Banking,fraud
+Banking,security
+Banking,otp
+Banking,pin
+Banking,verification
+Banking,kyc
+Banking,login
+Banking,logout
+Banking,password
+Banking,insurance
+Banking,investment
+Banking,mutual fund
+Banking,cheque
+Banking,check
+Banking,draft
+Banking,dd
+Banking,account number
+Banking,ifsc
+Banking,swift
+Banking,service charge
+Banking,processing fee
+Telecom,network
+Telecom,signal
+Telecom,coverage
+Telecom,call
+Telecom,calls
+Telecom,call drop
+Telecom,call quality
+Telecom,voice
+Telecom,voice call
+Telecom,internet
+Telecom,data
+Telecom,mobile data
+Telecom,speed
+Telecom,slow internet
+Telecom,wifi
+Telecom,broadband
+Telecom,fiber
+Telecom,4g
+Telecom,5g
+Telecom,3g
+Telecom,sim
+Telecom,simcard
+Telecom,connection
+Telecom,recharge
+Telecom,topup
+Telecom,plan
+Telecom,plans
+Telecom,data pack
+Telecom,validity
+Telecom,tower
+Telecom,network tower
+Telecom,range
+Telecom,latency
+Telecom,ping
+Telecom,buffering
+Telecom,lag
+Telecom,streaming
+Telecom,download
+Telecom,upload
+Telecom,hotspot
+Telecom,roaming
+Telecom,international roaming
+Telecom,sms
+Telecom,message
+Telecom,otp
+Telecom,customer care
+Telecom,service provider
+Telecom,jio
+Telecom,airtel
+Telecom,vi
+Telecom,vodafone
+Telecom,bsnl
+Telecom,bill
+Telecom,billing
+Telecom,postpaid
+Telecom,prepaid
+Telecom,activation
+Telecom,deactivation
+Telecom,disconnect
+Telecom,reconnect
+E-commerce,product
+E-commerce,products
+E-commerce,order
+E-commerce,orders
+E-commerce,shopping
+E-commerce,cart
+E-commerce,wishlist
+E-commerce,checkout
+E-commerce,payment
+E-commerce,delivery
+E-commerce,shipping
+E-commerce,shipment
+E-commerce,dispatch
+E-commerce,tracking
+E-commerce,tracking id
+E-commerce,order status
+E-commerce,return
+E-commerce,returns
+E-commerce,refund
+E-commerce,replacement
+E-commerce,seller
+E-commerce,vendor
+E-commerce,merchant
+E-commerce,price
+E-commerce,discount
+E-commerce,offer
+E-commerce,deal
+E-commerce,sale
+E-commerce,coupon
+E-commerce,promo
+E-commerce,cashback
+E-commerce,quality
+E-commerce,damaged
+E-commerce,broken
+E-commerce,defective
+E-commerce,packaging
+E-commerce,box
+E-commerce,parcel
+E-commerce,delivery boy
+E-commerce,courier
+E-commerce,logistics
+E-commerce,flipkart
+E-commerce,amazon
+E-commerce,meesho
+E-commerce,snapdeal
+E-commerce,rating
+E-commerce,review
+E-commerce,reviews
+E-commerce,size
+E-commerce,color
+E-commerce,variant
+E-commerce,out of stock
+E-commerce,availability
+E-commerce,invoice
+E-commerce,bill
+E-commerce,exchange
+E-commerce,cancel
+E-commerce,cancellation
